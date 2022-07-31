@@ -1,0 +1,2 @@
+# Java-File-Reader-and-Writer-Simple-Program
+An educational institute wishes to maintain a database of it’s employees The database is divided into number of classes whose hierarchical relationships are shown in the diagram The diagram also shows the minimum information required for each class Specify all the classes and define methods to create the database and retrieve individual information as and when required
